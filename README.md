@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/lokesh1306/lokesh1306/main/lokesh-banner.png" alt="Lokesh's GitHub Banner" />
+<img align="center" src="https://raw.githubusercontent.com/lokesh1306/lokesh1306/main/banner.png" alt="Lokesh's GitHub Banner" />
 
 <b>About me</b> <br />
 👋 A self-taught Cloud Engineer and DevOps Enthusiast <br />
