@@ -1,5 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/lokesh1306/lokesh1306/main/gh-banner.png" alt="Lokesh's GitHub Banner" />
-<b><h1> Hi, I'm Lokesh </h1></b>
+<img align="center" src="https://raw.githubusercontent.com/lokesh1306/lokesh1306/main/lokesh-banner.png" alt="Lokesh's GitHub Banner" />
+
 <b>About me</b> <br />
 👋 A self-taught Cloud Engineer and DevOps Enthusiast <br />
 🧡 Building scalable, efficient and automated solutions, leveraging cloud and DevOps practices <br />
