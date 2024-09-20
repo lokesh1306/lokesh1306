@@ -7,7 +7,7 @@
 🚀 Driven by Innovation, Fueled by Learning <br />
 🎯 Looking for opportunities to work on challenging projects and grow professionally <br />
 
-## Connect with Me
+## Connect with me
 <a href="mailto:challagulla.l@northeastern.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-challagulla.l@northeastern.edu-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
 </a> <br />
