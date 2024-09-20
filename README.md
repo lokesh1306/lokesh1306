@@ -5,8 +5,20 @@
 🧡 Building scalable, efficient and automated solutions, leveraging cloud and DevOps practices <br />
 💡 Problem-Solver, Passionate, Persistent and Continuous Learner <br />
 🚀 Driven by Innovation, Fueled by Learning <br />
+🎯 Looking for opportunities to work on challenging projects and grow professionally <br />
 
-## 
+## Connect with Me
+<a href="mailto:challagulla.l@northeastern.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-challagulla.l@northeastern.edu-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
+</a> <br />
+<a href="https://lokesh.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Website-lokesh.cloud-blueviolet?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="lokesh.cloud"> 
+</a> <br />
+<a href="https://linkedin.com/in/chlokesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/chlokesh-red?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokesh1306&show_icons=true&include_all_commits=true&theme=ambient_gradient&show=prs_merged,prs_merged_percentage&hide=issues,stars&hide_border=true&hide_rank=true&number_format=long" alt="Lokesh's GitHub stats" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
