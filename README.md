@@ -6,16 +6,13 @@
 💡 Problem-Solver, Passionate, Persistent and Continuous Learner <br />
 🚀 Driven by Innovation, Fueled by Learning <br />
 
-<markdown-accessiblity-table><table>
-<thead>
-<tr>
-<th><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh1306&show_icons=true&include_all_commits=true&theme=ambient_gradient&show=prs_merged,prs_merged_percentage&hide=issues,stars&hide_border=true&hide_rank=true&number_format=long" alt="Lokesh's GitHub stats" />
-<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1306&layout=compact&theme=ambient_gradient&hide_border=true&hide=css,scss,html&langs_count=20&hide_progress=true" alt="Top Langs" />
-</tr>
-</thead>
+## 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh1306&show_icons=true&include_all_commits=true&theme=ambient_gradient&show=prs_merged,prs_merged_percentage&hide=issues,stars&hide_border=true&hide_rank=true&number_format=long" alt="Lokesh's GitHub stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1306&layout=compact&theme=ambient_gradient&hide_border=true&hide=css,scss,html&langs_count=10&hide_progress=true" alt="Top Langs" style="margin-left: 10px;" />
+</div>
 
 ## Certifications & Badges
-
 <div align="center">
   <a href="https://lokesh.cloud/assets/img/certs/cks.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cks.png?raw=true" alt="CKS: Certified Kubernetes Security Specialist" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/cka.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cka.png?raw=true" alt="CKA: Certified Kubernetes Administrator" width="150" height="150"></a>
