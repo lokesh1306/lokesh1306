@@ -38,7 +38,7 @@
   <a href="https://lokesh.cloud/assets/img/certs/scs.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/scs.png?raw=true" alt="AWS Certified Security - Specialty (SCS-C02)" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/tf.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/tf.png?raw=true" alt="HashiCorp Certified: Terraform Associate (002)" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/comptia.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/comptia.png?raw=true" alt="CompTIA Network+ ce" width="150" height="150"></a>
-  <a href="https://lokesh.cloud/assets/img/certs/rhce.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="RedHat Certified Engineer" width="150" height="150"></a>
+  <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="RedHat Certified Engineer" width="150" height="150"></a>
 </div>
 
 <div align="center">
