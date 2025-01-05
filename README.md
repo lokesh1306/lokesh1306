@@ -8,8 +8,8 @@
 🎯 Looking for opportunities to work on challenging projects and grow professionally <br />
 
 ## Connect with me
-<a href="mailto:challagulla.l@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-challagulla.l@northeastern.edu-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
+<a href="mailto:chlokesh1306@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-chlokesh1306@gmail.com-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
 </a> <br />
 <a href="https://lokesh.cloud" target="_blank">
     <img src="https://img.shields.io/badge/Website-lokesh.cloud-blueviolet?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="lokesh.cloud"> 
