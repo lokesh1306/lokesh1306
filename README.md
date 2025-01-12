@@ -36,15 +36,16 @@
 
 <div align="center">
   <a href="https://lokesh.cloud/assets/img/certs/tf.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/tf.png?raw=true" alt="HashiCorp Certified: Terraform Associate (003)" width="150" height="150"></a>
-  <a href="https://lokesh.cloud/assets/img/certs/vault.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/vault.png?raw=true" alt="HashiCorp Certified: Vault Associate (002)" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/kca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/kca.png?raw=true" alt="KCA: Kyverno Certified Associate" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/capa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/capa.png?raw=true" alt="CAPA: Certified Argo Project Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/cca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cca.png?raw=true" alt="CCA: Cilium Certified Associate" width="150" height="150"></a>
-<a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a>
-  <a href="https://lokesh.cloud/assets/img/certs/scs.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/scs.png?raw=true" alt="AWS Certified Security - Specialty (SCS-C02)" width="150" height="150"></a>
+ <a href="https://lokesh.cloud/assets/img/certs/vault.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/vault.png?raw=true" alt="HashiCorp Certified: Vault Associate (002)" width="150" height="150"></a>
 </div>
 
 <div align="center">
-<a href="https://lokesh.cloud/assets/img/certs/capa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/capa.png?raw=true" alt="CAPA: Certified Argo Project Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="RedHat Certified Engineer" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a>
+  <a href="https://lokesh.cloud/assets/img/certs/scs.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/scs.png?raw=true" alt="AWS Certified Security - Specialty (SCS-C02)" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/comptia.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/comptia.png?raw=true" alt="CompTIA Network+ ce" width="150" height="150"></a>
 </div>
   
