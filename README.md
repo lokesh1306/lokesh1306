@@ -1,10 +1,10 @@
 <img align="center" src="https://raw.githubusercontent.com/lokesh1306/lokesh1306/main/banner.png" alt="Lokesh's GitHub Banner" />
 
 ## About Me
-👋 A self-taught Cloud Engineer and DevOps Enthusiast <br />
+👋 A self-taught Cloud and DevOps Engineer <br />
 🧡 Building scalable, efficient and automated solutions, leveraging cloud and DevOps practices <br />
-💡 Problem-Solver, Passionate, Persistent and Continuous Learner <br />
-🚀 Driven by Innovation, Fueled by Learning <br />
+💡 Problem-Solver, passionate, persistent and a lifelong learner <br />
+🚀 Driven by innovation, fueled by learning <br />
 🎯 Looking for opportunities to work on challenging projects and grow professionally <br />
 
 ## Connect with me
