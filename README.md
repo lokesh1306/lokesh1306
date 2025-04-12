@@ -19,7 +19,7 @@
 </a>
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-xi-jade.vercel.app?user=lokesh1306&exclude_days=Sun%2CSat&card_width=750)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-xi-jade.vercel.app?user=lokesh1306&exclude_days=Sun%2CSat&card_width=800)](https://git.io/streak-stats)
 
 ## Certifications & Badges
 <div align="center">
