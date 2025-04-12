@@ -19,7 +19,7 @@
 </a>
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-stats-lokesh.vercel.app?user=lokesh1306&theme=tokyonight&card_width=875&mode=weekly)](https://github.com/lokesh1306)
+[![GitHub Streak](https://github-readme-stats-lokesh.vercel.app?user=lokesh1306&theme=radical&card_width=875&mode=weekly)](https://github.com/lokesh1306)
 
 ## Certifications & Badges
 <div align="center">
