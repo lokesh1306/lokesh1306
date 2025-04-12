@@ -19,11 +19,7 @@
 </a>
 
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-roan-seven.vercel.app/api?username=lokesh1306&show_icons=true&include_all_commits=true&theme=ambient_gradient&show=prs_merged,prs_merged_percentage&hide=issues,stars&hide_border=true&hide_rank=true&number_format=long" alt="Lokesh's GitHub stats" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-roan-seven.vercel.app/api/top-langs/?username=lokesh1306&layout=compact&theme=ambient_gradient&hide_border=true&hide=css,scss,html&langs_count=10&hide_progress=true" alt="Top Langs" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-xi-jade.vercel.app?user=lokesh1306&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Certifications & Badges
 <div align="center">
