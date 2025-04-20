@@ -39,18 +39,18 @@
 </div>
 
 <div align="center">
-<a href="https://lokesh.cloud/assets/img/certs/otca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/otca.png?raw=true" alt="OTCA: OpenTelemetry Certified Associate" width="150" height="150"></a>
-<a href="https://lokesh.cloud/assets/img/certs/capa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/capa.png?raw=true" alt="CAPA: Certified Argo Project Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/scs.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/scs.png?raw=true" alt="AWS Certified Security - Specialty (SCS-C02)" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/pcse.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/pcse.png?raw=true" alt="Google Professional Cloud Security Engineer Certification" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/otca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/otca.png?raw=true" alt="OTCA: OpenTelemetry Certified Associate" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/capa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/capa.png?raw=true" alt="CAPA: Certified Argo Project Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/cca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cca.png?raw=true" alt="CCA: Cilium Certified Associate" width="150" height="150"></a>
 </div>
 
 <div align="center">
       <a href="https://lokesh.cloud/assets/img/certs/dop.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/dop.png?raw=true" alt="AWS Certified DevOps Engineer – Professional (DOP-C02)" width="150" height="150"></a>
-  <a href="https://lokesh.cloud/assets/img/certs/pca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/pca.png?raw=true" alt="PCA: Prometheus Certified Associate" width="150" height="150"></a>
     <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="RedHat Certified Engineer" width="150" height="150"></a> 
 <a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a> 
+  <a href="https://lokesh.cloud/assets/img/certs/pca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/pca.png?raw=true" alt="PCA: Prometheus Certified Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/ace.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ace.png?raw=true" alt="Google Associate Cloud Engineer Certification" width="150" height="150"></a>
 </div>
 
