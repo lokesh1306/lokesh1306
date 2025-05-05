@@ -48,13 +48,14 @@
 
 <div align="center">
       <a href="https://lokesh.cloud/assets/img/certs/dop.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/dop.png?raw=true" alt="AWS Certified DevOps Engineer – Professional (DOP-C02)" width="150" height="150"></a>
-    <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="RedHat Certified Engineer" width="150" height="150"></a> 
+    <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="Red Hat Certified Engineer" width="150" height="150"></a> 
 <a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a> 
   <a href="https://lokesh.cloud/assets/img/certs/pca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/pca.png?raw=true" alt="PCA: Prometheus Certified Associate" width="150" height="150"></a>
 <a href="https://lokesh.cloud/assets/img/certs/comptia.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/comptia.png?raw=true" alt="CompTIA Network+ ce" width="150" height="150"></a>
 </div>
 
 <div align="center">
+  <a href="https://lokesh.cloud/assets/img/certs/RHCSA.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhcsa.png?raw=true" alt="Red Hat Certified System Administrator" width="150" height="150"></a> 
   <a href="https://lokesh.cloud/assets/img/certs/soa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/soa.png?raw=true" alt="AWS Certified SysOps Administrator - Associate (SOA-C02)" width="150" height="150"></a
   <a href="https://lokesh.cloud/assets/img/certs/dva.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/dva.png?raw=true" alt="AWS Certified Developer - Associate (DVA-C02)" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/saa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/saa.png?raw=true" alt="AWS Certified Solutions Architect - Associate (SAA-C02)" width="150" height="150"></a>
