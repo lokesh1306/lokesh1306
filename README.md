@@ -23,7 +23,7 @@
 
 ## Certifications & Badges
 <div align="center">
-  <a href="https://lokesh.cloud/assets/img/certs/cks.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cks.png?raw=true" alt="CKS: Certified Kubernetes Security Specialist" width="150" height="150"></a>
+  <a href="https://lokesh.cloud/assets/img/certs/cks.pdf" target="_blank" rel="noopener noreferrer"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cks.png?raw=true" alt="CKS: Certified Kubernetes Security Specialist" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/ica.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ica.png?raw=true" alt="ICA: Istio Certified Associate" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/cka.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cka.png?raw=true" alt="CKA: Certified Kubernetes Administrator" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/sap.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/sap.png?raw=true" alt="AWS Certified Solutions Architect - Professional (SAP-C02)" width="150" height="150"></a>
