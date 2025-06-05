@@ -49,7 +49,8 @@
 <div align="center">
       <a href="https://lokesh.cloud/assets/img/certs/dop.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/dop.png?raw=true" alt="AWS Certified DevOps Engineer – Professional (DOP-C02)" width="150" height="150"></a>
     <a href="https://lokesh.cloud/assets/img/certs/RHCE.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/rhce.png?raw=true" alt="Red Hat Certified Engineer" width="150" height="150"></a> 
-<a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a> 
+<a href="https://lokesh.cloud/assets/img/certs/ans.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ans.png?raw=true" alt="AWS Certified Advanced Networking - Specialty (ANS-C01)" width="150" height="150"></a>
+<a href="https://lokesh.cloud/assets/img/certs/cgoa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/cgoa.png?raw=true" alt="CGOA: Certified GitOps Associate" width="150" height="150"></a>
   <a href="https://lokesh.cloud/assets/img/certs/pca.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/pca.png?raw=true" alt="PCA: Prometheus Certified Associate" width="150" height="150"></a>
 </div>
 
