@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <a href="https://docs.clokesh.me/certs/soa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/soa.png?raw=true" alt="AWS Certified SysOps Administrator - Associate (SOA-C02)" width="150" height="150"></a
+  <a href="https://docs.clokesh.me/certs/soa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/soa.png?raw=true" alt="AWS Certified SysOps Administrator - Associate (SOA-C02)" width="150" height="150"></a>
   <a href="https://docs.clokesh.me/certs/dva.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/dva.png?raw=true" alt="AWS Certified Developer - Associate (DVA-C02)" width="150" height="150"></a>
   <a href="https://docs.clokesh.me/certs/saa.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/saa.png?raw=true" alt="AWS Certified Solutions Architect - Associate (SAA-C02)" width="150" height="150"></a>
 <a href="https://docs.clokesh.me/certs/ace.pdf" target="_blank"><img src="https://github.com/lokesh1306/lokesh1306/blob/main/badges/ace.png?raw=true" alt="Google Associate Cloud Engineer Certification" width="150" height="150"></a>
